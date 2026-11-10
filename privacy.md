@@ -28,14 +28,21 @@
 
 본 게임은 다음 서비스를 이용하며, 해당 서비스가 위 정보를 처리할 수 있습니다.
 
-| 서비스 | 제공·처리 항목 | 목적 |
-|---|---|---|
-
-| Google Play 서비스, Google Play 결제, Google Play 게임즈 (Google LLC) | 기기 정보, 결제 기록, 게임 저장 데이터, Google Play 게임즈 계정 정보 | 앱 배포, 결제 처리, 로그인, 클라우드 저장 |
-| Google Firebase Analytics (Google LLC) | 광고 식별자, 기기 정보, 앱 이용 기록 | 이용 통계 분석, 서비스 개선 |
-| Unity LevelPlay 및 연동 광고 네트워크(Google AdMob 등) (Unity Technologies 및 각 광고 사업자) | 광고 식별자, 기기 정보, 광고 노출·클릭 기록 | 광고 게재 및 수익 측정 |
-| Meta(Facebook) SDK (Meta Platforms, Inc.) | 광고 식별자, 기기 정보, IP 주소, 앱 설치·실행 기록, 인앱 결제 기록 | 광고 성과 측정 및 광고 최적화 |
-| Apple App Store, iCloud (Apple Inc.) | 결제 기록, 게임 저장 데이터 | 앱 배포, 결제 처리, 클라우드 저장 (iOS) |
+* **Google Play 서비스, Google Play 결제, Google Play 게임즈 (Google LLC)**
+  * 항목: 기기 정보, 결제 기록, 게임 저장 데이터, Google Play 게임즈 계정 정보
+  * 목적: 앱 배포, 결제 처리, 로그인, 클라우드 저장
+* **Google Firebase Analytics (Google LLC)**
+  * 항목: 광고 식별자, 기기 정보, 앱 이용 기록
+  * 목적: 이용 통계 분석, 서비스 개선
+* **Unity LevelPlay 및 연동 광고 네트워크(Google AdMob 등) (Unity Technologies 및 각 광고 사업자)**
+  * 항목: 광고 식별자, 기기 정보, 광고 노출·클릭 기록
+  * 목적: 광고 게재 및 수익 측정
+* **Meta(Facebook) SDK (Meta Platforms, Inc.)**
+  * 항목: 광고 식별자, 기기 정보, IP 주소, 앱 설치·실행 기록, 인앱 결제 기록
+  * 목적: 광고 성과 측정 및 광고 최적화
+* **Apple App Store, iCloud (Apple Inc.)**
+  * 항목: 결제 기록, 게임 저장 데이터
+  * 목적: 앱 배포, 결제 처리, 클라우드 저장 (iOS)
 
 각 서비스의 개인정보 처리에 관한 자세한 사항은 해당 사업자의 개인정보처리방침을 따릅니다.
 
