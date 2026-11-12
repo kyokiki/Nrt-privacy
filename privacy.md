@@ -2,6 +2,12 @@
 
 무림일기(이하 "본 게임")는 이용자의 개인정보를 중요하게 생각하며, 아래와 같이 정보를 수집 및 이용합니다.
 
+## 무림일기 고객지원 / Martial Arts Diary Support
+
+게임 오류, 인앱 결제 문제, 기타 게임 문의는 [nextroofstudio@gmail.com](mailto:nextroofstudio@gmail.com)으로 보내주세요.
+
+For bug reports, in-app purchase issues, or other questions about the game, email [nextroofstudio@gmail.com](mailto:nextroofstudio@gmail.com).
+
 ## 1. 수집하는 정보
 
 본 게임은 다음 정보를 수집할 수 있습니다.
